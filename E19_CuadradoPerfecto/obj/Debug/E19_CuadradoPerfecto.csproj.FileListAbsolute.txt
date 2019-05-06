@@ -1,0 +1,14 @@
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.exe.config
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.pdb
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\repos\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\bin\Debug\E19_CuadradoPerfecto.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E19_CuadradoPerfecto\E19_CuadradoPerfecto\obj\Debug\E19_CuadradoPerfecto.pdb
